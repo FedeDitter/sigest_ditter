@@ -78,7 +78,7 @@ if(isset($_POST["enviar"])){
                 <div class="form-check">
                   <input type="checkbox" class="form-check-input" id="dropdownCheck2">
                 </div>
-                <button type="submit" name="enviar" class="btn btn-primary" >Iniciar Sesion</button>  
+                <button type="submit" name="enviar" class="btn btn-primary" >Iniciar Sesion1</button>  
               </form>    
           </div>
         </div>
